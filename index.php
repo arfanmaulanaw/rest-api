@@ -22,7 +22,7 @@
         $respon[] = array(
             'status' => 'OK',
             'kode' => '999',
-            'data' => $data
+            'data' => $datanya
         ); 
 
         header("Context-type: application/json");
