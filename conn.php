@@ -1,8 +1,8 @@
 <?php
 
-    $server = "localhost";;
+    $server = "localhost";
     $username = "root";
-    $password = "";;
+    $password = "";
     $database = "wsmahasiswa";
 
     $conn = mysqli_connect($server, $username, $password, $database);
