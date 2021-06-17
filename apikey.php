@@ -1,7 +1,7 @@
 <?php
 
 function getKey() {
-    return ["1234", "rahasia", "xyz"];
+    return ["arfan", "maulana", "095"];
 }
 
 function isValid($input) {
